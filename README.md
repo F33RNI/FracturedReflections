@@ -122,5 +122,6 @@ With experimental music and striking visuals, this map creates a powerful, immer
 - Music by **Fern Lane (F33RNI)**: <https://f3rni.bandcamp.com>
 - Launcher by **Fern Lane (F33RNI)**: <https://github.com/F33RNI/micro-minecraft-launcher>
 - Diary pages, testing, help and motivation: **Nick V.**: <https://github.com/Sprav04ka>
+- Testing: **delerium_d**: <https://www.twitch.tv/delerium_d>
 - Complementary Shaders by **EminGT**: <https://github.com/ComplementaryDevelopment/ComplementaryReimagined>
 - Minecraft by **Mojang**: <https://www.minecraft.net>
